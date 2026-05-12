@@ -1,2 +1,2 @@
 # testing-with-jest
-a jest and npm lab session
+a jest and npm lab session med emil :)
