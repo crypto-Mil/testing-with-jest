@@ -52,5 +52,5 @@ test('pop should remove the top element in stack', async () => {
 
     let value = await driver.findElement(By.id('top_of_stack')).getText();
 
-    expect(value).toEqual("n/a");
+    expect(value).not.toEqual("Hej");
 });

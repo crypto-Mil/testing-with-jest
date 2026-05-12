@@ -24,6 +24,6 @@ test('pop removes the top element from the stack', () => {
 
     const removed = stack.pop();
 
-    expect(removed).toBe(10);
+    expect(removed).toBe(20);
     expect(stack.peek()).toBe(10);
 });
