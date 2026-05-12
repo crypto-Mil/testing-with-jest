@@ -1,0 +1,23 @@
+{
+  "name": "testing-with-jest",
+  "version": "1.0.0",
+  "description": "a jest and npm lab session med emil :)",
+  "homepage": "https://github.com/crypto-Mil/testing-with-jest#readme",
+  "bugs": {
+    "url": "https://github.com/crypto-Mil/testing-with-jest/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crypto-Mil/testing-with-jest.git"
+  },
+  "license": "MIT",
+  "author": "emil",
+  "type": "commonjs",
+  "main": "src/index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
